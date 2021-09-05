@@ -1,2 +1,6 @@
-# Hello-World
-Day1-Java
+public class IntroJava{
+  public static void main(String[] args);
+  {
+    System.out.println("Hello World");
+  }
+}
